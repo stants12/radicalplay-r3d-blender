@@ -4,6 +4,7 @@
 
 Currently supports importing Need For Madness Re-Lit's .r3d model files, only extensively tested with car and track piece models.
 # Issues
+- For now textures do not get auto-assigned, you'll have to set them yourself.
 - Exporting to .r3d is incomplete and unstable.
 - Sky Mad's .r3d is untested.
 # Installing
