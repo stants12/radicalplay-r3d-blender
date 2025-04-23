@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/13edb9da-29f9-4473-8c0c-71e6ca718d78)
 
 
-Currently supports importing Need For Madness Re-Lit's .r3d model files, only extensively tested with car and track piece models.
+Blender plugin which allows you to import/export Need For Madness Re-Lit's and Sky Mad's .r3d model files.
 # Issues
 - When importing, textures do not get auto-assigned yet, you'll have to set them yourself.
 # Installing
